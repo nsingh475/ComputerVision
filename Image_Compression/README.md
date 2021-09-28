@@ -38,6 +38,6 @@ K-Means algorithm is a centroid based clustering technique. This technique clust
 
 
 #### How does the K-Means Clustering technique compress the image?
-In a colored image, each pixel is of size 3 bytes (RGB), where each color can have intensity values from 0 to 255. Following combinatorics, the total number of colors which can be represented is 256*256*256 ( equal to 16,777,216). 
+In a colored image, each pixel is of size 3 bytes (RGB), where each color can have intensity values from 0 to 255. Following combinatorics, the total number of colors which can be represented is 256x256x256 ( equal to 16,777,216). 
 Practically, we can visualize only a few colors in an image very less than the above number. So the k-Means Clustering algorithm takes advantage of the visual perception of the human eye and uses few colors to represent the image. 
 Colors having different values of intensity that are RGB values seem the same to the human eye. The K-Means algorithm takes this advantage and clubs similar looking colors (which are close together in a cluster).
