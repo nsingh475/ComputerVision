@@ -30,7 +30,7 @@ Following are the subtasks of the project:
 4. Visualizing the K-means Reduced Color Space
 5. K-means Image Compression with Interactive Controls
 
-In this project, I have used K-Means clustering unsupervised learning algorithm using scikit-learn and Python to build an image compression application. It is a type of Transform method of compression. Using K-means clustering, we will perform quantization of colors present in the image which will further help in compressing the image.
+In this project, I have used K-Means clustering unsupervised learning algorithm using scikit-learn and Python to build an image compression application. K-Means clustering is a type of Transform method of compression. Using K-means clustering, we will perform quantization of colors present in the image which will further help in compressing the image.
 
 
 #### What is K-Means Clustering ?
