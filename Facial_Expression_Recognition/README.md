@@ -25,6 +25,8 @@ Reference - https://towardsdatascience.com/introduction-to-resnets-c0a830a288a4,
 
 It is a deep learning model based on Convolutional Neural Network(CNN or ConvNets) and Residual Blocks (ResNets) to predict Facial Expressions.
 
+Dataset used for this project can be downloaded from - https://www.kaggle.com/deadskull7/fer2013
+
 
 
 #### Some useful links
