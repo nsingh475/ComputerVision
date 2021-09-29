@@ -25,8 +25,8 @@ Many popular computer vision applications involve:
 
 ##### This repository contains following use cases of computer vision:
 1. Data Augmentation
-2. Facial Expression Recognition
+2. Facial Expression Recognition - ResNet
 3. Synthetic Image Generation - DCGANs
 4. Image Classigication - Transfer Learning
 5. Image Compression - SVM
-6. Image Noise Reduction - 
+6. Image Noise Reduction - Autoencoder
